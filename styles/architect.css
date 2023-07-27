@@ -272,4 +272,8 @@ footer p {
     .sponsors-img-container {
         flex-direction: column;
     }
+    footer p{
+        margin: 0px 0px 20px 0px;
+        padding: 10px 0px 10px 0px;
+    }
 }
